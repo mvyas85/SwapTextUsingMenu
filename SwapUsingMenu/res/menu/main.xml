@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >  
+    <item android:id="@+id/swap_item"
+    	  android:icon="@drawable/swap_item"
+          android:title="@string/swap_item" /> 
+    <item android:id="@+id/remove_item"
+    	  android:icon="@drawable/remove_item"
+          android:title="@string/remove_item" /> 
+</menu>
